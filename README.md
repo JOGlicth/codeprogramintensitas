@@ -1,0 +1,2 @@
+# codeprogramintensitas
+Algoritma Fuzzy
